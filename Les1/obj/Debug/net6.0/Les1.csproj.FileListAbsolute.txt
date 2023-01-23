@@ -1,0 +1,15 @@
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\bin\Debug\net6.0\Les1.exe
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\bin\Debug\net6.0\Les1.deps.json
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\bin\Debug\net6.0\Les1.runtimeconfig.json
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\bin\Debug\net6.0\Les1.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\bin\Debug\net6.0\Les1.pdb
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.csproj.AssemblyReference.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.AssemblyInfoInputs.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.AssemblyInfo.cs
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.csproj.CoreCompileInputs.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\refint\Les1.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.pdb
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\Les1.genruntimeconfig.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\Les1\obj\Debug\net6.0\ref\Les1.dll
